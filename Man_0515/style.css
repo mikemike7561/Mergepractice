@@ -1,0 +1,12 @@
+section{
+    text-align: center;
+    width: 50%;
+    height: 300px;
+    background-color: antiquewhite;
+    cursor: url(man.png), auto;
+}
+p{
+    text-align: center;
+    height: 30px;
+    font-size: large;
+}
